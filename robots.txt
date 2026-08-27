@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://anisnaqvi5-cpu.github.io/veron/sitemap.xml
+Sitemap: https://anisnaqvi5-cpu.github.io/alhadi/sitemap.xml
